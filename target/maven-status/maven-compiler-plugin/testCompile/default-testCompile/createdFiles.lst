@@ -1,0 +1,6 @@
+com\pratian\SauceDemo\Automation\PageObjects\BasePage.class
+com\pratian\SauceDemo\Automation\PageObjects\HomePage.class
+com\pratian\SauceDemo\Automation\Tests\BaseTest.class
+com\pratian\SauceDemo\Automation\PageObjects\LoginPage.class
+com\pratian\SauceDemo\Automation\Tests\TestAddCartitem.class
+com\pratian\SauceDemo\Automation\PageObjects\Cart.class
